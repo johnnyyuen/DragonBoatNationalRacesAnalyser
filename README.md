@@ -31,5 +31,9 @@ The dashboard automatically isolates the competitive race window from pre-race s
 ## File Structure
 
 ```text
-├── index.html   # Standalone HTML/JS/CSS dashboard
-└── README.md    # Documentation
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+└── README.md
